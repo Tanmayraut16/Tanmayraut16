@@ -98,38 +98,6 @@ I'm passionate about building scalable web applications and AI-powered solutions
 - 📚 **Exploring:** Cloud-native technologies and DevOps practices
 - 🎯 **Goal:** Contributing to impactful tech solutions
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmayraut16&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmayraut16&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-raut-416303257/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](your-twitter-url)
-
-</div>
 
 ---
 
@@ -138,17 +106,6 @@ I'm passionate about building scalable web applications and AI-powered solutions
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📊 Profile Views & Followers
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Tanmayraut16&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Tanmayraut16.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Tanmayraut16?tab=followers)
 
 </div>
 
